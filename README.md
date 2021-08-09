@@ -32,8 +32,9 @@ It is run by initially chain foundations, then owned by an open community.
 InterWasm DAO will own:
 
 -   CosmWasm codebase ownership will be delegated to the community gradually
-    -   Initially CosmWasm docs and plus repos maintainership will be owned by foundations. This will reduce forking, and share code as much as possible.
-    -   High quality smart contracts should be collected under cosmwasm-plus.
+    -   Initially CosmWasm docs repo maintainership will be owned by foundations.
+    -   Community contracts will be collected under cosmwasm-contracts repo.
+    -   High quality smart contracts should be collected under cosmwasm-plus. Quality of the code ensured by repo maintainers.
 -   Fund distribution among the community goods projects.
 -   Organising cross chain events.
 -   Developer Relations data collection(developer number, community size etc...) and sharing with community.
