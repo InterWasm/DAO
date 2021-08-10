@@ -95,6 +95,7 @@ Here are few projects to fund:
 - **Documentation and Tutorial funding**
 - **1.0-rc1 Audit**
 - **CosmWasm IDE by OraiChain**
+- **cw-alarm-clock**
 
 Misc:
 - **Maintain InterWasm Events Calendar**
