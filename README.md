@@ -24,7 +24,7 @@ Now, CosmWasm spans many blockchains, communities, and continents. Today, the te
 
 CosmWasm is first citizen cross chain platform, and a value owned and accrued cross chain. EDITOR NOTE: I don't understand what this says.
 
-Natirally, CosmWasm is a perfect fit to once again prove that decentralized organisation and funding is more efficient than older forms of governance.
+Naturally, CosmWasm is a perfect fit to once again prove that decentralized organisation and funding is more efficient than older forms of governance.
 
 **InterWasm DAO** is the organisation behind CosmWasm and cw tooling.
 
