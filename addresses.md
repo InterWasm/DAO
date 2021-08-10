@@ -6,10 +6,30 @@ Distribution address is a multisig wallet participated by foundations
 
 ## Foundation Addresses
 
-- **Confio**: 
-- **Terra**: 
-- **Juno**:
-- **Enigma**:
-- **IrisNET**:
-- 
+### ATOM
+
+#### Confio
+
+**address**:
+**pubkey**:
+
+#### Terra
+
+**address**:
+**pubkey**:
+
+#### Juno
+
+**address**:
+**pubkey**:
+
+#### Enigma
+
+**address**:
+**pubkey**:
+
+#### IrisNET
+
+**address**:
+**pubkey**:
 
