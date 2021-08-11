@@ -22,9 +22,7 @@ CosmWasm was born at Hackatom Berlin 2019 by the hands of several code magicians
 
 Now, CosmWasm spans many blockchains, communities, and continents. Today, the technology powers and secures trillions of dollars. Many more eyes are looking into CosmWasm, either as smart contract devs, or blockchains that desire Cosmos and CosmWasm capabilities.
 
-CosmWasm is first citizen cross chain platform, and a value owned and accrued cross chain. EDITOR NOTE: I don't understand what this says.
-
-Naturally, CosmWasm is a perfect fit to once again prove that decentralized organisation and funding is more efficient than older forms of governance.
+CosmWasm is cross chain first framework. Ecosystem development is Inherently decentralized.
 
 **InterWasm DAO** is the organisation behind CosmWasm and cw tooling.
 
