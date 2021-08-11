@@ -65,7 +65,6 @@ The Juno Network will be shipping a Gaia Hub IBC bridge on its launch.
 Details and implementation of the DAO smart contract will be discussed at a later time.
 
 ## Initial Board of Members
-
 These are the project/companies that are currently most active in the CosmWasm community.
 (More members can be added later)
 
