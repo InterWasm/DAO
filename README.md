@@ -2,68 +2,71 @@
 
 ## Executive Summary
 
-- InterWasm DAO is organisation that will ensure the success of CosmWasm Ecosystem
-	- Own codebases
-	- Fund community good projects
-	- Boost community growth
-	- Organize events
-- Later it will become an on-chain DAO
-- Initial fund $200K USD in ATOMs collected under multisig wallet
-- Fund distribution will be approved by multisig wallet owners
+InterWasm DAO is an organisation that aims to ensure the success of the CosmWasm Ecosystem.
+
+It will:
+- Own codebases
+- Fund community good projects
+- Boost community growth
+- Organize events
+
+Later it will become an on-chain DAO
+Initial fund $200K USD in ATOMs collected under multisig wallet
+Fund distribution will be approved by multisig wallet owners
 
 ---
 
-## What Is InterWasm DAO
+## What Is InterWasm DAO?
 
-CosmWasm was born at Hackatom Berlin 2019 by the hands of several code magicians. Initially it was just testing a possibility.
+CosmWasm was born at Hackatom Berlin 2019 by the hands of several code magicians. Initially it was just testing a possibility...
 
-Now CosmWasm spans many blockchains, communities, and continents. As today, the technology powers and secures trillions of dollars. Many more eyes looking into CosmWasm, either as smart contract devs, or blockchains that desires Cosmos and CosmWasm capabilities.
+Now, CosmWasm spans many blockchains, communities, and continents. Today, the technology powers and secures trillions of dollars. Many more eyes are looking into CosmWasm, either as smart contract devs, or blockchains that desire Cosmos and CosmWasm capabilities.
 
-CosmWasm is first citizen cross chain platform, and a value owned and accrued cross chain. 
+CosmWasm is first citizen cross chain platform, and a value owned and accrued cross chain. EDITOR NOTE: I don't understand what this says.
 
-Nature of CosmWasm is a perfect fit to prove again decentralized organisation and funding is efficient than old rules.
+Naturally, CosmWasm is a perfect fit to once again prove that decentralized organisation and funding is more efficient than older forms of governance.
 
 **InterWasm DAO** is the organisation behind CosmWasm and cw tooling.
 
-It is run by initially chain foundations, then owned by an open community.
+It will initially be run by the existing chains and their Foundations, and later be owned by an open community of users and contributors.
 
-## Definition of DAO's roles
+## What are InterWasm DAO's roles?
 
 InterWasm DAO will own:
 
--   CosmWasm codebase ownership will be delegated to the community gradually
-    -   Initially CosmWasm docs repo maintainership will be owned by foundations.
-    -   Community contracts will be collected under cosmwasm-contracts repo.
-    -   High quality smart contracts should be collected under cosmwasm-plus. Quality of the code ensured by repo maintainers.
--   Fund distribution among the community goods projects.
--   Organising cross chain events.
--   Developer Relations data collection(developer number, community size etc...) and sharing with community.
+- CosmWasm codebase ownership will be delegated to the community gradually
+    - Initially CosmWasm docs repo maintainership will be owned by foundations.
+    - Contracts written by the community will be collected under the `cosmwasm-contracts` repo.
+    - High quality smart contracts should be collected under `cosmwasm-plus`. Quality of the code will be ensured by the repo maintainers.
+- Fund distribution among the community-goods projects.
+- Organising cross chain events.
+- Collection of data regarding Developer Relations (developer number, community size etc...) and sharing it with the community.
 
-## Fund
+## Funding
 
-InterWasm DAO should distribute funds effectively among community good projects.
+InterWasm DAO should distribute funds effectively among community-good projects.
 
-Initially, we will collect ATOMs worth $200K. And start funding projects right away.
+Initially, we will collect $200K's worth of ATOM, and start funding projects right away.
 
 ## Decision Making
 
-Initially decision making will happen by communication in open/closed between foundation chats.
+Initially decision making will happen by communication in open/closed channels such as foundation chats.
 
-Each foundation will provide and address which will be used for forming %66 percent approval multisig wallet.
+Each foundation will provide an address which will be used for forming a %66 percent approval multisig wallet.
 
-Agreeing foundations will sign send the required funds to project funding addresses.
+Agreeing foundations will send the required funds to the project funding addresses.
 
-InterWasm DAO must decentralize more to open up to the community. This will be done making the organisation a real on chain DAO smart contract.
+InterWasm DAO must decentralize more to open up to the community. This will be done by making the organisation a real on-chain DAO smart contract.
 
-As Confio, we propose hosting InterWasm DAO on a neutral zone: **Juno network**.
+At Confio, we propose hosting the InterWasm DAO on a neutral zone: **Juno network**.
 
-Juno Network ensures gaia hub IBC bridge right from the launch.
+The Juno Network will be shipping a Gaia Hub IBC bridge on its launch.
 
-Details and implementation of the smart contract will be discussed later.
+Details and implementation of the DAO smart contract will be discussed at a later time.
 
-## Fund Initial Board
-These are the project involved mostly in CosmWasm community.
-More members can be added later.
+## Initial Board of Members
+These are the project/companies that are currently most active in the CosmWasm community.
+(More members can be added later)
 
 - Confio
 - Terraform Labs
@@ -72,27 +75,27 @@ More members can be added later.
 
 ## Proposals
 
-Proposals are structured and organised way for decentralized decision making.
+Proposals are a structured and organised way for decentralized decision making.
 
-Projects can ask for funds using proposals,
+Projects can ask for funds using proposals.
 
 Changes to common CosmWasm code should be done through proposals.
 
-Initially proposals will be collected under CosmWasm github organisation under InterWasm repo.
+Initially proposals will be collected under the CosmWasm github organisation, under the InterWasm repo.
 
 I think **IWP**(InterWasm Proposal) is a good prefix.
 
 ## Workgroups
 
-For the internal and external projects, InterWasm DAO members can form workgroups and work in specific manner.
+For the internal and external projects, members of the InterWasm DAO can form workgroups and work on specific issues or topics.
 
 
 ## First 6 months
 
-Here are few projects to fund:
+Here are few project ideas that could be funded:
 - **Code and Smart Contract Explorer**
 - **CosmWasm AssemblyScript Integration**
-- **Documentation and Tutorial funding**
+- **Documentation and Tutorials**
 - **1.0-rc1 Audit**
 - **CosmWasm IDE by OraiChain**
 - **cw-alarm-clock**
