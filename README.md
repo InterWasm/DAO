@@ -81,12 +81,11 @@ Changes to common CosmWasm code should be done through proposals.
 
 Initially proposals will be collected under the CosmWasm github organisation, under the InterWasm repo.
 
-I think **IWP**(InterWasm Proposal) is a good prefix.
+See more: [InterWasm Proposals](#interwasm-proposalsiwps)
 
 ## Workgroups
 
 For the internal and external projects, members of the InterWasm DAO can form workgroups and work on specific issues or topics.
-
 
 ## First 6 months
 
