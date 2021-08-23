@@ -100,3 +100,26 @@ Here are few project ideas that could be funded:
 
 Misc:
 - **Maintain InterWasm Events Calendar**
+
+---
+
+# InterWasm Proposals(IWPs)
+
+InterWasm Proposals formalizes DAO decision making. Initially used for collecting grant requests for projects.
+
+Use [InterWasm Proposal Template iwp-0](IWPs/iwp-0.md) as basis for your proposal.
+
+## Proposal Types
+
+**Grant** - Proposal asking for grants to develop a project or tooling.
+
+## Proposal Status
+
+**Draft** - Initial ideation of a proposal.
+
+**Review** - InterWasm Members marks an IWP as ready for and requesting Peer Review.
+
+**Funded** - Special status for grant type proposals. Indicates the project is funded and waiting for development.
+
+**Final** - Proposal finalized. All is delivered.
+
