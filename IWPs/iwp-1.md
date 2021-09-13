@@ -33,7 +33,7 @@ All of those obstacles have motivated us to build a hub for developers, called C
     
     - Fast call contract interface via command & switch contract, account
     
-    - Fast Dapp development via Restful API & already integrated with Oraichain Studio
+    - Fast Dapp development via Restful API & already integrated with CosmWasm IDE
     
     - Print some debug information on screen
     
