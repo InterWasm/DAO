@@ -27,6 +27,24 @@ All of those obstacles have motivated us to build a hub for developers, called C
 
 - Build a Simulate VS Code extension and install it into the Gitpod template so users can simulate running the contracts as if they have deployed them onto the network.
 
+- Simulate features:
+
+    - Fast load & deploy & hot-reload contract without run WASMD
+    
+    - Fast call contract interface via command & switch contract, account
+    
+    - Fast Dapp development via Restful API & already integrated with Oraichain Studio
+    
+    - Print some debug information on screen
+    
+    - Do some bytecode check during wasm instanced
+    
+    - Watching storage db change on realtime
+    
+    - Dynamic calcuate and printing gas used during contract execute
+    
+    - Easy to test smart contract without input a json string
+
 ## Team(Optional)
 
 Tu Pham, Duc Pham, Diep Nguyen, Chung Dao, Thao Nguyen.
