@@ -10,8 +10,8 @@ Distribution address is a multisig wallet participated by foundations
 
 #### Confio
 
-- _address_:
-- _pubkey_:
+- _address_: `cosmos1utkns2g53qy4xwg3cykt0p7j4x7ch94gw35xwk`
+- _pubkey_: `cosmospub1addwnpepqfkl2303e6gayvhz5l946spc65qsfm70ttpyu37q9zlnfq3g38jyvjl9nnq`
 
 #### Terra
 
