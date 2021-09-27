@@ -44,6 +44,42 @@ There is another way we can deploy by selecting Injective web3 on our environmen
 - Wallet: section showing the balance of a selected wallet.
 - Contracts: a list of deployed contracts or created tokens on chain
 
+### After Deployment
+
+So after your contract looks good and you have deployed and ran in your connected enviroment.
+
+after it deploying successfully on the right hand side under RUN section a Deployed Contracts section should be visible to users can interact with their Smart Contract. For example if we have created a Contest smart contract where participants are asked to input some variables to the contract. Name, Phone, Email ect. What if in this section we can add our call functions in there like.... Pick a winner, Registration, transferAmount, getWinnerSelected and getManager. This allows the user to call functions straight off their Project.
+
+![3](https://user-images.githubusercontent.com/68139321/133888319-2a46ef17-708e-49a0-9e9d-035764ee199a.png)
+
+Once again if ive not highlighted this before a terminal should be visible on the bottom of the screen too. 
+
+### Create a compile script
+
+```jsx
+cosnt path = require('path');
+const fs = require('fs'); 
+
+   const solc = require('solc'); 
+
+   const filenamePath = path.resolve(__dirname, 'contracts',      '<filename.rs>';
+
+  const source = fs.readFileSync(filenamePath, 'utf8');
+
+console.log(solc.compile(source, 1));
+```
+
+ 
+
+once you get the byte code and the interface properties from the compiled code we can add the contract name and export the contract. 
+
+```jsx
+/// console.log(solc.compile(source, 1));
+
+module.exports = solc.compile((source, 1).contracts[':name-of-the-contract'];
+```
+
+
 
 
 
