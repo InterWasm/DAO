@@ -57,4 +57,4 @@ Duration: 2 months
 
 Form of payment: $ATOM tokens
 
-track: [CosmWasm IDE](https://github.com/InterWasm/DAO/tree/main/https://github.com/InterWasm/DAO/tree/main/projects/CosmWasm_IDE)
+track: [CosmWasm IDE](https://github.com/InterWasm/DAO/tree/main/projects/CosmWasm%20IDE)
