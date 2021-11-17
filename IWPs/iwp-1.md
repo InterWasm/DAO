@@ -60,3 +60,5 @@ Form of payment: $ATOM tokens
 Address: `cosmos1u54s9xm57r78qcgphx8np0t3kquxywr6pdf679`
 
 track: [CosmWasm IDE](https://github.com/InterWasm/DAO/tree/main/projects/CosmWasm%20IDE)
+
+Tx: https://www.mintscan.io/cosmos/txs/949ECA97C94E4571A406EA0ACA28ECFFB7D5120BC4C9E68438E3FF8B79116D35
