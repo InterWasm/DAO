@@ -1,6 +1,4 @@
 ---
-
----
 iwp: iwp-2
 title: deus labs bootstrap fund
 description: deus labs bootstrap funding for CosmWasm DevRel efforts
