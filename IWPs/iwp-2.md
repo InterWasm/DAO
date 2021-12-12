@@ -16,13 +16,13 @@ We want this proposal to be an example for the other teams in the space. To show
 
 ## Who we are and our motivation
 
-Our team member @orkunkl has been a prominent contributor to the CosmWasm ecosystem, committed to the improvement of the developer experience. Thus he set this collective to scale CosmWasm ecosystem to its next level. As part of InterWasm, we provide support systems, documentation, workshops, and events; continuing our work and ensuring a healthy growth for the broader ecosystem.
+Our team member [@orkunkl](https://github.com/orkunkl) has been a prominent contributor to the CosmWasm ecosystem, committed to the improvement of the developer experience. Thus he set this collective to scale CosmWasm ecosystem to its next level. As part of InterWasm, we provide support systems, documentation, workshops, and events; continuing our work and ensuring a healthy growth for the broader ecosystem.
 
 ## What we’ve achieved so far
 
 - Setting up and managing Discord Support Bot
 - Clearing out and managing documentation
-- Writing a simple UI for communicating with cw1-subkey contracts (more to come)
+- Developed a simple UI for communicating with cw1-subkey contracts: https://subkeys.deuslabs.fi/ 
 - Setting up and managing validators on Juno and Stargaze
 - Mentoring projects that use CosmWasm and networking for more
 
@@ -41,12 +41,12 @@ Our team member @orkunkl has been a prominent contributor to the CosmWasm ecosys
 
 ## Team
 
-Website: [https://deuslabs.fi](https://deuslabs.fi/)
-Orkun - [https://github.com/orkunkl](https://github.com/orkunkl) - [https://twitter.com/zl00ba](https://twitter.com/zl00ba)
-Furkan - [https://github.com/kaymakf](https://github.com/kaymakf) - [h](https://github.com/kaymakf)[ttps://twitter.com/4k_deus](https://twitter.com/4k_deus)
-Arda - [https://github.com/findolor](https://github.com/findolor) - [https://twitter.com/_findolor](https://twitter.com/_findolor)
-Pelin - [https://twitter.com/PelinYalmaz](https://twitter.com/PelinYalmaz)
-And more skilled non-dev individuals
+- Website: [https://deuslabs.fi](https://deuslabs.fi/)
+- Orkun: [https://github.com/orkunkl](https://github.com/orkunkl), [https://twitter.com/zl00ba](https://twitter.com/zl00ba)
+- Furkan: [https://github.com/kaymakf](https://github.com/kaymakf), [https://github.com/kaymakf](https://github.com/kaymakf), [https://twitter.com/4k_deus](https://twitter.com/4k_deus)
+- Arda: [https://github.com/findolor](https://github.com/findolor),[https://twitter.com/_findolor](https://twitter.com/_findolor)
+- Pelin: [https://twitter.com/PelinYalmaz](https://twitter.com/PelinYalmaz)
+- And more skilled non-dev individuals
 
 ## Grant
 
