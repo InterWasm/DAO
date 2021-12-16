@@ -1,5 +1,5 @@
 ---
-iwp: iwp-2
+iwp: iwp-4
 title: Starrybot - Token Gating Communities in the Cosmos Ecosystem
 description: A bot that detects Cosmos ecosystem tokens and NFTs, then promotes users with those tokens or NFTs in their wallets to different roles in Discord. 
 author: Amber Case (@caseorganic), Amber Case <caseorganic@gmail.com>, Caseorganic (@caseorganic) Mike Purvis (@mikedotexe), Mike Purvis <mikedotexe@gmail.com>, Mikedotexe (@mikedotexe), Anselm Hook <anselm@hook.org>, Anselm Hook (@anselm) Anselm Hook (@anselm) and anselm (@anselm)
