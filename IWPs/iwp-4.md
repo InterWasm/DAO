@@ -2,9 +2,9 @@
 iwp: iwp-4
 title: Starrybot - Token Gating Communities in the Cosmos Ecosystem
 description: A bot that detects Cosmos ecosystem tokens and NFTs, then promotes users with those tokens or NFTs in their wallets to different roles in Discord. 
-author: Amber Case (@caseorganic), Amber Case <caseorganic@gmail.com>, Caseorganic (@caseorganic) Mike Purvis (@mikedotexe), Mike Purvis <mikedotexe@gmail.com>, Mikedotexe (@mikedotexe), Anselm Hook <anselm@hook.org>, Anselm Hook (@anselm) Anselm Hook (@anselm) and anselm (@anselm)
+author: Amber Case (@caseorganic), Mike Purvis (@mikedotexe), Anselm Hook (@anselm)
 discussions-to: <https://starrybot.xyz/>
-status: Draft
+status: Review
 type: Grant
 created: <date created on, in ISO 8601 (2021-12-15) format>
 ---
@@ -63,7 +63,9 @@ The authors of this proposal are the team:
 
 ## Grant
 
-2500 Juno tokens upon receipt of the grant. Delivered to Amber Case's Juno Grant Token Wallet.   
+We would love to have 2500 Juno tokens. 
+
+Please distribute tokens to juno15etd4t9380mvfpslrfty4v2257f4lfrr52jgve. 
 
 December: 
 
