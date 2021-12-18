@@ -10,6 +10,7 @@ InterWasm DAO is an organizer unit for CosmWasm ecosystem.
 # Teams
 
 - [deus labs](https://deuslabs.fi)
+- [Juno Network](https://www.junonetwork.io/)
 - [Stargaze](https://stargaze.zone)
 - [Oraichain](https://orai.io)
 - [Stake Or Die](https://stakeordie.com)
