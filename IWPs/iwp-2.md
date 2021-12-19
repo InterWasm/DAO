@@ -50,6 +50,6 @@ Our team member [@orkunkl](https://github.com/orkunkl) has been a prominent cont
 
 ## Grant
 
-2.5K **JUNO**
+5K **JUNO**
 
 Juno address: **juno17skjxhtt54prnpxcs7a5rv9znlldpe5kwmn2nc**
