@@ -4,7 +4,7 @@ title: Starrybot - Token Gating Communities in the Cosmos Ecosystem
 description: A bot that detects Cosmos ecosystem tokens and NFTs, then promotes users with those tokens or NFTs in their wallets to different roles in Discord. 
 author: Amber Case (@caseorganic), Mike Purvis (@mikedotexe), Anselm Hook (@anselm)
 discussions-to: <https://starrybot.xyz/>
-status: Review
+status: Passed
 type: Grant
 created: <date created on, in ISO 8601 (2021-12-15) format>
 ---
@@ -91,3 +91,7 @@ February:
 March-Dec: 
 
 - Grow the bot and help it to become a vibrant and friendly piece of the Cosmos ecosystem! 
+
+## Tx 
+
+https://www.mintscan.io/juno/txs/2089267677FA564606AE2CA6312E21D2553BC18F37CCFA5DFC59BFB1C8DB5B40
