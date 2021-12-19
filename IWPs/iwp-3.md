@@ -3,7 +3,7 @@ iwp: iwp-3
 title: Initial DAO DAO Grant for 3 Core Devs
 description: Fund a few DAO DAO contributors contributing to core development.
 author: Jake Hartnell (@jakehartnell)
-status: Review
+status: Passed
 type: Grant
 created: 2021-12-14
 ---
@@ -45,3 +45,7 @@ We are aiming to add more features and finalize the v1.0.0 of the smart contract
 - 1k -> `juno1td5dacyexdd6xvzz2sskwd5t5tl7n3hfp7eqty`
 - 1k -> `juno1fraqkclsmmplpmueu5zv7qzrt3nxhnzx2kuv5t`
 - 1k -> `juno1m7a7nva00p82xr0tssye052r8sxsxvcy2v5qz6`
+
+## Tx
+
+https://www.mintscan.io/juno/txs/B1922BE12C3E74B37FF91DF868BD2B30FF0C70062090C29653553BE0484D5EBB
