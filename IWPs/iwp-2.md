@@ -3,7 +3,7 @@ iwp: iwp-2
 title: deus labs bootstrap fund
 description: deus labs bootstrap funding for CosmWasm DevRel efforts
 author: Orkun Kulce(@orkunkl)
-status: Review
+status: Passed
 type: Grant
 created: 2021-12-12
 ---
@@ -53,3 +53,7 @@ Our team member [@orkunkl](https://github.com/orkunkl) has been a prominent cont
 5K **JUNO**
 
 Juno address: **juno17skjxhtt54prnpxcs7a5rv9znlldpe5kwmn2nc**
+
+## Tx
+
+https://www.mintscan.io/juno/txs/26237356D985A61C17699369B2994C6A5AFD49644D52F5A3E158AC4496DFCCE6
