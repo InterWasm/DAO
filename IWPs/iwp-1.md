@@ -4,7 +4,7 @@ title: CosmWasm IDE powered by Oraichain
 description: An open-source project to simplify the development of WASM smart contracts on Cosmos-based networks: writing code, editing, testing, simulation, and deployment.
 author: Tu Pham, Duc Pham, Diep Nguyen, Chung Dao, Thao Nguyen.
 discussions-to: InterWasm DAO
-status: Draft
+status: Passed
 type: Grant
 created: 2021-08-25
 ---
@@ -56,3 +56,9 @@ Expected amount: $35k
 Duration: 2 months
 
 Form of payment: $ATOM tokens
+
+Address: `cosmos1u54s9xm57r78qcgphx8np0t3kquxywr6pdf679`
+
+track: [CosmWasm IDE](https://github.com/InterWasm/DAO/tree/main/projects/CosmWasm%20IDE)
+
+Tx: https://www.mintscan.io/cosmos/txs/949ECA97C94E4571A406EA0ACA28ECFFB7D5120BC4C9E68438E3FF8B79116D35
