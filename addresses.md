@@ -10,8 +10,8 @@ Distribution address is a multisig wallet participated by foundations
 
 #### Confio
 
-- _address_:
-- _pubkey_:
+- _address_: `cosmos1utkns2g53qy4xwg3cykt0p7j4x7ch94gw35xwk`
+- _pubkey_: `cosmospub1addwnpepqfkl2303e6gayvhz5l946spc65qsfm70ttpyu37q9zlnfq3g38jyvjl9nnq`
 
 #### Terra
 
@@ -37,3 +37,8 @@ Distribution address is a multisig wallet participated by foundations
 
 - _address_: `cosmos1ucttgnh49lqs40q8dd8gxezrr4skjyclrahawj`
 - _pubkey_: `cosmospub1ytql0csgqgfzd666axrjzqlywkncdygehzq7thgu6fm7v857cl3egelmthyxcmmezmw594u625fzd666axrjzqlgty2gvautae3sln0d4c22znnqlakqq9ay3jd745wfpjdkywqflgfzd666axrjzq6wapgau4g3kdq690cpe07ezwz5glxph54eeal9w2p7zaghn4cukszlmxru`
+
+#### deus labs
+
+- _address_: `cosmos17skjxhtt54prnpxcs7a5rv9znlldpe5kcfs35y`
+- _pubkey_: `cosmospub1addwnpepqgjhz67ufpcd949qjkdgq0pauergxdpfnecjuw5cfmlqn43auxyvuukjp65`
