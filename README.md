@@ -5,6 +5,7 @@ InterWasm DAO is an organizer unit for CosmWasm ecosystem.
 ## Index
 
 - [InterWasm DAO Specs](SPEC.md)
+- [InterWasm Bounties](BOUNTIES.md)
 - [InterWasm Proposals](IWPs)
 
 # Teams
@@ -18,8 +19,5 @@ InterWasm DAO is an organizer unit for CosmWasm ecosystem.
 # Projects
 
 - [CosmWasm IDE](https://github.com/InterWasm/DAO/tree/main/projects/CosmWasm%20IDE) by [OraiChain](https://orai.io/)
-
-# Bounties
-
-- [Documentation bounties](https://github.com/InterWasm/DAO/tree/main/projects/Documentation)
-
+- [DAO DAO](https://daodao.zone)
+- [Starrybot](https://starrybot.xyz/)
