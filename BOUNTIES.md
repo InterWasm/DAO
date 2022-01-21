@@ -38,3 +38,11 @@ Bounties related to building decentralized frontend applications for CosmWasm sm
 | Task                                              | Description                                                                                                                                                                                 | Reward   | PR  | Claimed by |
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | --- | :--------- |
 | Document deploying a Next.js application on Akash | Document how to deploy a Next.js application on Akash network with HTTPS setup for a custom domain. please include a link to an open source GitHub repo with this documentation in your PR. | 100 JUNO |     |            |
+
+## Wallets
+
+These bounties relate to adding better CosmWasm support as well as code examples for wallets.
+
+| Task                                              | Description                                                                                                                                                                                 | Reward   | PR  | Claimed by |
+| :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | --- | :--------- |
+| Add CW721 support to Keplr | This may need discussion with the Keplr team - implement support for CW721 NFTs within Keplr wallet. Please include a link to the PR on Keplr. | 500 JUNO |     |            |
