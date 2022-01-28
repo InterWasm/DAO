@@ -63,7 +63,7 @@ In the course of carrying out the CosmWasm work, we expect to develop or improve
 
 
 ### Art and Education
-In order to allow for continuous fundraising and the recording of impactful security events in Cosmos / IBC history, the DAO will begin minting ([when it becomes available]()) a weekly `SG-721` NFTs that point at specific transactions of significance from any of the L-1 chains in Cosmos or otherwise, protocols, DAOs being audited, and any adjacent artifacts. In cases where the significant event is a fork or other artifacts that are no longer on-chain for the current height, the NFT will point to an index / sketch of the incident in `Arweave`.
+In order to allow for continuous fundraising and the recording of impactful security events in Cosmos / IBC history, the DAO will begin minting ([when it becomes available](https://mirror.xyz/stargazezone.eth/Ozp8kRUsnGyN46lV3-5I57tB_LxRtlyTN176yL_T0f8)) a weekly `SG-721` NFTs that point at specific transactions of significance from any of the L-1 chains in Cosmos or otherwise, protocols, DAOs being audited, and any adjacent artifacts. In cases where the significant event is a fork or other artifacts that are no longer on-chain for the current height, the NFT will point to an index / sketch of the incident in `Arweave`.
 
 ## Governance
 
