@@ -29,11 +29,13 @@ Security innovation is a key differentiator for Tendermint-based chains and the 
 
 ### Upcoming audits
 
-Initial set of targets:
+Set of targets for initial audit:
 
 - [DAO DAO](https://daodao.zone)
 - [WasmSwap](https://github.com/Wasmswap)
 - [cw-vest](https://github.com/ben2x4/cw-vest)
+- [cw-nfts](https://github.com/CosmWasm/cw-nfts)
+- [cw-contracts](https://github.com/InterWasm/cw-contracts)
 
 ### CosmWasm fuzzer
 Fuzz-testing smart contracts allows for discovery of issues outside of the test cases thought up and implemented by the developer. In practice, it will mean fulfilling several sub-bounties that implement AFL fuzzing for smart contract intercations for `CosmWasm` specifically.
@@ -48,17 +50,18 @@ When it comes to the terms of engagement, final deliverable format, or how the p
 
 A typical smart contract auditor today is paid per engagement at a rate significantly less than the value of the targets being audited. The liability for the audit is limited and in case of their client being hacked, the damage to the auditor is predominantly reputational.
 
-At SecurityDAO, we are fundamentally uninspired by the way web3 / DeFi audits are done today. We build what we build because we share in the values of the protocols, DAOs, L-1s, and individuals that we help, we want to help bring the outcomes in the world that they seek (and yes, sometimes our prospects' values won't align with ours and we will vote to say "no"). If our contributors make mistakes, we will hurt also.
+At SecurityDAO, we are fundamentally uninspired by the way web3 / DeFi audits are done today. We build what we build because we share in the values of the protocols, DAOs, L-1s, and individuals that we help, we want our work to aid in bringing their desired outcomes into the world safely (and yes, sometimes our prospects' values won't align with ours and we will vote to say "no"). If our contributors make mistakes, it needs to be reflected in our bottom line.
 
 This shared ownership over the outcomes, good or bad, is the fundamental principle of web3 and needs to be emulated, especially wherever the stakes are high. To that end, we want to build a protocol for on-chain audits with automated incentives to get it right! Our goal for the protocol is to allow any "pod" of security frens anywhere to have a structured way of joining forces for an audit. The scope of our ambition is to engineer incentives to capture the entire addressable market for audits and make the corporate transactional audits a relic from 2021.
 
-In order to own the outcomes of audits, the auditor needs to suffer a negative outcome in case of the target being hacked. This will incentivize the contributors to pay attention  and execute the audit. If the auditor is auditing an L-1 Tendermint chain with `$TOKEN`, and the chain / DAO or AMM on it gets hacked, `$TOKEN` is likely to go down in value or become worthless, so if the auditor gets only one-time `$TOKEN` payment for the audit, there is already shared ownership outcomes in that.
+In order to own up to the outcomes of audits, the auditor needs to suffer a negative outcome in case of the target being hacked. This will incentivize the contributors to pay attention and execute well on the audit. If the auditor is auditing an L-1 Tendermint chain with `$TOKEN`, and the chain / DAO or AMM on it gets hacked, `$TOKEN` is likely to go down in value or become worthless, so if the auditor gets only one-time `$TOKEN` payment for the audit, there are shared ownership outcomes in that already.
 
-However, that also disincentivizes disclosing vulns to the public the moment they are discovered by the auditor. In reality, what is proposed here is a set of CosmWasm smart contracts that:
-- can determine whether an audit target does get hacked and automatically transfers `$TOKEN` penalty from an account used by the DAO
-- the goal of these contracts and the broader protocol is to define the mechanics of the penalties, ensure that there is always `$TOKEN` available for the penalty_in code_, i.e. there is no way for us to withdraw money from that account
-- make it so that SecurityDAO benefits from having the token not be withdrawn, e.g. by it being staked to something, enabling LP, or another DeFi instrument -- basically a source of continuous / maximum rewards that would vanish (along with the principal) if the DAO messes up
-- unlock the principal after a time passes to make the original audit irrelevant to be transferred freely
+However, this also disincentivizes disclosing vulns to the public the moment they are discovered by the auditor. In reality, what is proposed here is a set of CosmWasm smart contracts that accomplish the following:
+- can determine whether an audit target does get hacked and automatically transfer `$TOKEN` penalty from a wallet used by the DAO
+- the goal of these contracts and the broader protocol is to define the mechanics of the penalties, ensure that there is always `$TOKEN` available for the penalty enforced _with code_, i.e. there is no way for the auditor to transfer token out of that wallet before the period of reasonable relevance of the audit expires
+- SecurityDAO would still benefit from the token not being withdrawn, e.g. by it being staked, enabling LPs, or another incentivized DeFi instrument -- as a source of continuous / maximum rewards it would vanish (along with the principal) if the DAO messes up on an audit
+- the principal in the yielding wallet will be unlocked for transfer after the period throughout which the audit remains reasonable
+
 
 CosmWasm operating across chains and even ecosystems (Evmos, Gravity Bridge) offers unique flexibility in developing a protocol that could allow for automated settlement to take place, even if the original chain is pwned / forked, in a variety of tokens as long as the chain is in IBC / using AMMs to ensure the token is liquid.
 
@@ -67,6 +70,7 @@ In the course of carrying out the CosmWasm work, we expect to develop or improve
 
 - IBC labnets - configuration-driven simulations of cross-chain scenarios enncountered by CosmWasm code working over public permissionless Tendermint chains in IBC
 - responsible disclosure - work out solutions and processes by which to incentivize discovery and disclosure of issues discovered at all layers of proof-of-stake chains
+- Tendermint chains / IBC indexing for large scale analytics to understand the totality of chain state, incl. for CosmWasm execution - Cosmos SDK chains with CosmWasm could benefit from Dune.xyz-type service
 
 
 ### Art and Education
