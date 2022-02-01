@@ -3,7 +3,7 @@ iwp: iwp-5
 title: SecurityDAO
 description: incentivized CosmWasm audits, security tooling and education for Cosmos / IBC
 authors: Barton Rhodes (@bmorphism), Paul Wagner (@devcubed)
-status: Review
+status: Passed
 type: Grant
 created: 2022-01-26
 ---
@@ -86,3 +86,7 @@ In order to allow for continuous fundraising and the recording of impactful secu
 Amount: `9999 $JUNO`
 
 Wallet: `juno1j37vjp9pcsyvk2ssklx3l7jhqwvfmm7p3frfd6`
+
+## TX
+
+https://www.mintscan.io/juno/txs/04D1BD806C772748F400B984EE532D8B9B933FE4F2898806A87FEAC20199A5AF
