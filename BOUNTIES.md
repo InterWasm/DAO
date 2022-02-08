@@ -18,7 +18,7 @@ For general documentation contributions. Amount to be determined by reviewers.
 
 | GitHub Username | Juno Address | Date | Description of work |
 | :-------------- | :----------- | ---- | :------------------ |
-|                 |              |      |                     |
+| @0xFable | `juno1g0d2g3uvhq5thslydcs40t2nwn30mpz4qywxk6` | 8/02/2022 | Cover basic usage for the `cw-multi-test` library as well as some platform specific tips to save time. Covered concepts such as contract mocking and third-party interactions. [Link](https://github.com/InterWasm/docs/pull/321)|
 
 - Note: Only major work will be eligible for documentation bounties, fixing a few a typos doesn't count.
 
@@ -28,7 +28,7 @@ These bounties are for specific tasks and have a specified prize associated. Rev
 
 | Task                                                             | Description                                                                                                                                  | Amount   | Juno Address |
 | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :----------- |
-| Document [cw-multi-test](https://crates.io/crates/cw-multi-test) | Cover basic usage for the `cw-multi-test` library. Contribute this to the github repository as well as the main CosmWasm documentation repo. | 100 Juno |              |
+| Document [cw-multi-test](https://crates.io/crates/cw-multi-test) | Cover basic usage for the `cw-multi-test` library. Contribute this to the github repository as well as the main CosmWasm documentation repo. | 100 Juno | `juno1g0d2g3uvhq5thslydcs40t2nwn30mpz4qywxk6`|
 | Document CosmWasm submessages and replies                        | Provide basic documentation for CosmWasm Submessages and replies to the main CosmWasm documentation repo.                                    | 100 Juno |              |
 
 ## Frontend Bounties
