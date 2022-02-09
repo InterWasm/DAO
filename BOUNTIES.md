@@ -37,7 +37,7 @@ Bounties related to building decentralized frontend applications for CosmWasm sm
 
 | Task                                              | Description                                                                                                                                                                                 | Reward   | PR  | Claimed by |
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | --- | :--------- |
-| Document deploying a Next.js application on Akash | Document how to deploy a Next.js application on Akash network with HTTPS setup for a custom domain. please include a link to an open source GitHub repo with this documentation in your PR. | 100 JUNO |     |            |
+| Document deploying a Next.js application on Akash | Document how to deploy a Next.js application on Akash network with HTTPS setup for a custom domain. please include a link to an open source GitHub repo with this documentation in your PR. | 100 JUNO |  https://github.com/0xFable/nextjs-akash-boilerplate   | `juno1g0d2g3uvhq5thslydcs40t2nwn30mpz4qywxk6` |
 
 ## Wallets
 
