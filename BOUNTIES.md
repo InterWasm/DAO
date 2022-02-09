@@ -26,10 +26,10 @@ For general documentation contributions. Amount to be determined by reviewers.
 
 These bounties are for specific tasks and have a specified prize associated. Reviewers may add a bonus for exceptional quality.
 
-| Task                                                             | Description                                                                                                                                  | Amount   | Juno Address |
-| :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :----------- |
+| Task                                                             | Description                                                                                                                                  | Amount    | PR | Juno Address |
+| :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :--- | :----------- |
 | Document [cw-multi-test](https://crates.io/crates/cw-multi-test) | Cover basic usage for the `cw-multi-test` library. Contribute this to the github repository as well as the main CosmWasm documentation repo. | 100 Juno |              |
-| Document CosmWasm submessages and replies                        | Provide basic documentation for CosmWasm Submessages and replies to the main CosmWasm documentation repo.                                    | 100 Juno |              |
+| Document CosmWasm submessages and replies                        | Provide basic documentation for CosmWasm Submessages and replies to the main CosmWasm documentation repo.                                   | 100 Juno | [link](https://github.com/InterWasm/docs/pull/322) | `juno17dg4ru0gqpwkvcxcyg4nfc6j8esv6kvtrqn29k` |
 
 ## Frontend Bounties
 
