@@ -42,7 +42,7 @@ We already released the first version of the CosmWasm contracts (Factory and Pro
 
 1. Ensure Vectis codebase is compatible with the Juno network cosmwasm version
 1. Creating a DAO and integrate with Vectis for managing migration of contracts via [DAODAO](https://daodao.zone/)
-1. Integration of the DApp frontend with Junotools to create the wallet interacting with the facroty contract and to manage the wallets (i.e. set/change guardians address, set/change relayers, check asset balances)
+1. Integration of the DApp frontend with Junotools to create the wallet interacting with the factory contract and to manage the wallets (i.e. set/change guardians address, set/change relayers, check asset balances)
 1. Provide an additional feature for a browser extension self custodial wallet (e.g. keplr) for users to use Vectis when interacting with other DApps on Juno
 1. Deployment of Vectis to Juno
 1. Deliver research and execution plan for deploying and managing Vectis DAO and wallets in candidate chains in the greater InterWasm ecosystem
