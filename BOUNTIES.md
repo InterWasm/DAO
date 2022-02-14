@@ -18,7 +18,7 @@ For general documentation contributions. Amount to be determined by reviewers.
 
 | GitHub Username | Juno Address | Date | Description of work |
 | :-------------- | :----------- | ---- | :------------------ |
-|         0xTenkaIchi        |              | 2022.02.15     |       Translate CosmWasm Doc page into both Simplified Chinese and Tranditional Chinese              |
+|         0xTenkaIchi        |              | 2022.02.15     |       Translate CosmWasm Doc page into both Simplified Chinese and Traditional Chinese              |
 
 - Note: Only major work will be eligible for documentation bounties, fixing a few a typos doesn't count.
 
