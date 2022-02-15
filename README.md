@@ -22,7 +22,7 @@ More members can and will be added later.
 
 Initially, decision making will happen by communication in open/closed channels such as foundation chats. Each foundation will provide an address which will be used for forming a %66 percent approval multisig wallet.
 
-InterWasm DAO is currently operating from a [temporary multisig on DAO DAO beta](). Once DAO DAO smart contracts have been audited, agreeing foundations will send the required funds to the project funding addresses.
+InterWasm DAO is currently operating from a [temporary multisig on DAO DAO beta](https://daodao.zone/multisig/juno1kkvct82dl0afp7lv2v6wv6emgltwqywxw2xu7p0l0vvl8rquv94s7e6xss). Once DAO DAO smart contracts have been audited, agreeing foundations will send the required funds to the project funding addresses.
 
 # Bounties
 
