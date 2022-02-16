@@ -45,4 +45,5 @@ These bounties relate to adding better CosmWasm support as well as code examples
 
 | Task                                              | Description                                                                                                                                                                                 | Reward   | PR  | Claimed by |
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | --- | :--------- |
-| Add CW721 support to Keplr | This may need discussion with the Keplr team - implement support for CW721 NFTs within Keplr wallet. Please include a link to the PR on Keplr. | 500 JUNO |     |            |
+| Add CW721 support to Keplr | This may need discussion with the Keplr team - implement support for CW721 NFTs within Keplr wallet. Please include a link to the PR on Keplr. | 500 JUNO |   WIP  |  Genuine-Hedgehog
+          |
