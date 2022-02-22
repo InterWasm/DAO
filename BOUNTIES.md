@@ -18,7 +18,8 @@ For general documentation contributions. Amount to be determined by reviewers.
 
 | GitHub Username | Juno Address | Date | Description of work |
 | :-------------- | :----------- | ---- | :------------------ |
-|                 |              |      |                     |
+|   tkxkd0159   | juno19p3mul7slzap9rm4y4cw7k8qdplflp2dj3ughv  |  2/14/2022 ~    |Supplement the outdated writings, remove deadlinks, modify inoperative examples. Afterwards, translate all contents into Korean|
+
 
 - Note: Only major work will be eligible for documentation bounties, fixing a few a typos doesn't count.
 
