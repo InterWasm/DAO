@@ -1,10 +1,10 @@
 ---
-iwp: iwp-TBC
+iwp: iwp-6
 title: Vectis - Smart Contract Wallet
 description: Vectis is a smart contract wallet project to add functionality for users of DApps to manage their keys by allowing for recovery and account freeze, whilst preserving user control, and enabling relayer capability for gas provisioning.
 author: NYMLAB Team, Belsy Yuen (@whalelephant), Arsen Kondratiev (@iorveth), Elena Chachkarova (@EChachGitHub), Egidio Casati (@egidiocasati)
 discussions-to: https://github.com/nymlab/vectis
-status: Draft
+status: Funded
 type: Grant
 created: 2022-02-09
 ---
@@ -53,7 +53,21 @@ NYMLAB Team, Belsy Yuen (@whalelephant), Arsen Kondratiev (@iorveth), Elena Chac
 
 ## Grant
 
-For the existing published work, we had invested in 10 weeks FTE[^1].
+We would like to break down the grant into 2 phases:
+
+### Phase 1: Existing published work
+
+**Time:** 10 weeks FTE[^1]
+**Est. Delivery date:** date of iwp-6 proposal accepted
+**Grant amount:** 2500Juno
+
+### Phase 2: Proposed New Features
+
+**Time:** Est 11.5 weeks FTE
+**Est. Delivery date:** End of April, 2022
+**Grant amount:** 2875Juno
+
+**Features breakdown:**
 
 | New Features | Est. Time (in week FTE) |
 | -----------: | ----------------------: |
@@ -64,6 +78,6 @@ For the existing published work, we had invested in 10 weeks FTE[^1].
 |           5. |                       1 |
 |           6. |                       2 |
 
-Grant total: 21.5 weeks FTE for 5375Juno
+Juno address: juno1r0rnhujmq60d8ewkd4eqjrxetcaylcfvxujvjq
 
 [^1]: Full Time Equivalent
