@@ -63,3 +63,5 @@ Third: We truly believe that Griptape is the best way to develop web3 applicatio
 6K **JUNO**
 
 JUNO address: juno1zs0ag2mu95434uk3kped60za0naae3jl69ecc7
+
+DA0 DA0 proposal: https://daodao.zone/multisig/juno1kkvct82dl0afp7lv2v6wv6emgltwqywxw2xu7p0l0vvl8rquv94s7e6xss/proposals/1
