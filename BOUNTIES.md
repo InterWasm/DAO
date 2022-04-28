@@ -38,7 +38,7 @@ Bounties related to building decentralized frontend applications for CosmWasm sm
 
 | Task                                              | Description                                                                                                                                                                                 | Reward   | PR  | Claimed by |
 | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | --- | :--------- |
-| Document deploying a Next.js application on Akash | Document how to deploy a Next.js application on Akash network with HTTPS setup for a custom domain. please include a link to an open source GitHub repo with this documentation in your PR. | 100 Juno |     |            |
+| Document deploying a Next.js application on Akash | Document how to deploy a Next.js application on Akash network with HTTPS setup for a custom domain. please include a link to an open source GitHub repo with this documentation in your PR. | 100 Juno |  https://github.com/InterWasm/DAO/pull/70   |    @0xFable `juno1g0d2g3uvhq5thslydcs40t2nwn30mpz4qywxk6`  |
 | Wallet connect example                            | Provide an example repo for utilizing [Wallet Connect V2](https://walletconnect.com) alongside the Keplr wallet, be sure to document the setup process in the repo's README.                | 150 Juno |     |            |
 
 ## Wallets
