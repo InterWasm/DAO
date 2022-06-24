@@ -9,6 +9,8 @@ InterWasm DAO will:
 - Boost community growth
 - Organize events
 
+DA0 DA0 multisig: https://daodao.zone/multisig/juno1kkvct82dl0afp7lv2v6wv6emgltwqywxw2xu7p0l0vvl8rquv94s7e6xss
+
 ## Initial Board of Members
 
 These are the project/companies that are currently most active in the CosmWasm community.
