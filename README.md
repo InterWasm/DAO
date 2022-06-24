@@ -63,5 +63,5 @@ For the internal and external projects, members of the InterWasm DAO can form wo
 # Projects
 
 - [DAO DAO](https://daodao.zone)
-- [Juno Tools](https://test.juno.tools/)
+- [Juno Tools](https://juno.tools/)
 - [Starrybot](https://starrybot.xyz/)
